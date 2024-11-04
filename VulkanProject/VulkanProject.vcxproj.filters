@@ -20,12 +20,4 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
-  <ItemGroup>
-    <None Include="shader\shader_base.vert">
-      <Filter>Source Files</Filter>
-    </None>
-    <None Include="shader\shader_base.frag">
-      <Filter>Source Files</Filter>
-    </None>
-  </ItemGroup>
 </Project>
