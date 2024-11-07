@@ -103,7 +103,7 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;_LIB;NOMINMAX;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>$(VULKAN_SDK)\Include;D:\Vulkan_project_configuration_dependent\GLFW\include;D:\Vulkan_project_configuration_dependent\GLM;D:\Vulkan_project_configuration_dependent\STB</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(VULKAN_SDK)\Include;D:\Vulkan_project_configuration_dependent\GLFW\include;D:\Vulkan_project_configuration_dependent\GLM;D:\Vulkan_project_configuration_dependent\STB;D:\Vulkan_project_configuration_dependent\Tiny_Obj_Loder</AdditionalIncludeDirectories>
       <LanguageStandard>stdcpp20</LanguageStandard>
     </ClCompile>
     <Link>
