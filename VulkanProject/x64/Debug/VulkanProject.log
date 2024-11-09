@@ -1,2 +1,7 @@
 ﻿  main.cpp
+D:\VulkanRendering_VS_Project\VulkanProject\VulkanProject\src\main.cpp(1697,47): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
   VulkanProject.vcxproj -> D:\VulkanRendering_VS_Project\VulkanProject\x64\Debug\VulkanProject.exe
